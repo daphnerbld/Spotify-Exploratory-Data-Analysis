@@ -137,10 +137,17 @@ The chart indicates that Spotify Playlists overwhelmingly dominate with nearly 5
 
 And lastly, this part shows patterns among tracks with the same key or mode and allows us to compare the most frequently appearing artists in playlists or charts. 
 
-![image](https://github.com/user-attachments/assets/37fafa03-2f96-442c-8d59-ed3678f78134)
+![image](https://github.com/user-attachments/assets/5bb83136-4fbb-46a4-9e18-00d69f3fe4c0)
 
-___Figure 7___ _shows the average streams by key_
+___Figure 7.1___ _shows the average streams by key_
 
+![image](https://github.com/user-attachments/assets/e8a3a517-4320-4b3f-88c4-3b80cd147143)
+
+___Figure 7.2___ _shows the average streams by mode_
+
+![image](https://github.com/user-attachments/assets/9f6ec409-ee30-4b6f-b775-57f13eb1ea23)
+
+___Figure 7.3___ _shows the top artists by playlist appearances_
 
 ## V. Author
 
