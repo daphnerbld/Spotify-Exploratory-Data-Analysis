@@ -62,11 +62,11 @@ Standard Deviation: 566856949.0388832
 
 Additionally, it provides a visualization of the distribution of released year and artist count.  The trend reveals a steady increase in the number of tracks released over the years, reflecting the growing popularity of music streaming on platforms like Spotify and an expanding global music market.
 
-![image](https://github.com/user-attachments/assets/f963d984-69a0-4b3e-bbd9-aeef4f4acddc)
+![image](https://github.com/user-attachments/assets/2baccc79-72b4-4169-b316-a11035f34af5)
 
 ___Figure 2.1___ _shows the distribution of released year_
 
-![image](https://github.com/user-attachments/assets/74bb21b7-32a0-40d6-afb0-17b30760b803)
+![image](https://github.com/user-attachments/assets/ce7b67eb-8b8c-4818-81b2-40b468259e29)
 
 ___Figure 2.2___ _shows the distribution of artist count_
 
@@ -75,11 +75,11 @@ ___Figure 2.2___ _shows the distribution of artist count_
 
 This part shows which track has the highest number of streams and the top 5 most frequent artists based on the number of tracks in the dataset. Blinding Lights by The Weeknd has a total number of 3.7B streams making it the most streamed track on spotify 2023.
 
-![image](https://github.com/user-attachments/assets/58c4ed48-4dda-4d97-a8f1-9c03716170df)
+![image](https://github.com/user-attachments/assets/65b36bd4-8665-4197-9b52-09aa2af47fb8)
 
 ___Figure 3.1___ _shows the top 5 most streamed tracks_
 
-![image](https://github.com/user-attachments/assets/5dd005a4-bc17-4ce4-adb2-4df6437c8664)
+![image](https://github.com/user-attachments/assets/44b244a9-297a-4beb-b09b-10e068fe91c0)
 
 ___Figure 3.2___ _shows the top 5 most frequent artists_
 
@@ -87,13 +87,13 @@ ___Figure 3.2___ _shows the top 5 most frequent artists_
 
 This part allows us to analyze the trends in the number of tracks released over time and observe noticeable patterns.
 
-![image](https://github.com/user-attachments/assets/b935fe5f-a110-405d-aea8-84a1c215d432)
+![image](https://github.com/user-attachments/assets/5d4d2e2a-aa95-43c3-b40f-ae953e1c5ac3)
 
 ___Figure 4.1___ _shows the number of tracks released per year_
 
 In this bar chart, we see a significant increase in the number of tracks released per year, especially in recent years. The increase is gradual from the early years until around the 2010s, after which the number of releases sharply rises, particularly in 2022 and 2023. This trend could reflect the growing accessibility of music production and distribution technologies, as well as an increasing interest in music creation.
 
-![image](https://github.com/user-attachments/assets/0f082c56-d05a-4583-a79c-0c990a72a85e)
+![image](https://github.com/user-attachments/assets/b4b681c0-a37c-4f37-b60d-72fe0dfd3813)
 
 ___Figure 4.2___ _shows the number of tracks released per month_
 
@@ -103,11 +103,11 @@ The chart shows that January has the highest number of track releases, peaking a
 
 In this part, we are to examine the correlation between streams and musical attributes like bpm, danceability_%, and energy_%.
 
-![image](https://github.com/user-attachments/assets/bcd970d2-b788-4905-a1f2-6cf04a87efe3)
+![image](https://github.com/user-attachments/assets/8fc0006c-e9e3-4e7b-b070-6986188db194)
 
 ___Figure 5.1___ _shows the correlation matrix of streams and musical attributes_
 
-![image](https://github.com/user-attachments/assets/a774fabf-f6d4-40b9-83fd-0bbd82415df1)
+![image](https://github.com/user-attachments/assets/b7071417-54b6-4c15-8d7f-be7d1f315d11)
 
 ___Figure 5.2___ _shows the heatmap correlation matrix of streams and musical attributes_
 
@@ -123,11 +123,11 @@ These low correlation values imply that danceability, energy, valence, and acous
 
 This part compares the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists and which platform seems to favor the most popular tracks.
 
-![image](https://github.com/user-attachments/assets/12c31988-8981-4392-9b1b-f6cf37616c08)
+![image](https://github.com/user-attachments/assets/62e63d13-749e-4109-aa09-77b6ddad03c5)
 
 ___Figure 6.1___ _shows number of tracks in different platforms_
 
-![image](https://github.com/user-attachments/assets/82c7c06a-a573-4f5b-bf76-d7ebdbc8a89f)
+![image](https://github.com/user-attachments/assets/fe62b4a4-dc6b-4afa-b88e-a3d0d01c037b)
 
 ___Figure 6.2___ _shows number of tracks in different platforms_
 
@@ -137,7 +137,7 @@ The chart indicates that Spotify Playlists overwhelmingly dominate with nearly 5
 
 And lastly, this part shows patterns among tracks with the same key or mode and allows us to compare the most frequently appearing artists in playlists or charts. 
 
-![image](https://github.com/user-attachments/assets/91dddb71-cae6-4f68-8f04-4e230c2ebed3)
+![image](https://github.com/user-attachments/assets/37fafa03-2f96-442c-8d59-ed3678f78134)
 
 ___Figure 7___ _shows the average streams by key_
 
