@@ -37,15 +37,15 @@ df = pd.read_csv('spotify-2023.csv')
 
 In this part, we are going to find the number of rows and columns that the dataset contains as well as the data types of each columns and its missing values. Utilizing ```df.shape``` for efficiency in retrieving dimensions, ```pd.DataFrame``` for structured and expandable storage, labeled columns for clarity, and ```style.set_table_attributes()``` for readability
 
-![image](https://github.com/user-attachments/assets/e73d1def-7ff2-4d1c-9614-13511dfd4b0a)
+![image](https://github.com/user-attachments/assets/ccdf82b2-6455-429b-b431-6e6bb5d7b451)
 
 ___Figure 1.1___ _shows the number of rows and columns_
 
-![image](https://github.com/user-attachments/assets/ba6a9107-5881-4170-9ce4-e995f3014152)
+![image](https://github.com/user-attachments/assets/903fa5d7-5013-41cd-8d37-4418ecb59ef7)
 
 ___Figure 1.2___ _shows the data types of each columns_
 
-![image](https://github.com/user-attachments/assets/a7279010-e982-4bf6-98fc-6f92d1017585)
+![image](https://github.com/user-attachments/assets/655aea69-2aef-4fc0-a59c-b4a7e26b25ff)
 
 ___Figure 1.3___ _shows the missing values_
 
