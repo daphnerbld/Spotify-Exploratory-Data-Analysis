@@ -141,7 +141,7 @@ And lastly, this part shows patterns among tracks with the same key or mode and 
 
 ___Figure 7___ _shows the average streams by key_
 
-**V. Author**
+## V. Author
 
 Daphne P. Robleado
 
