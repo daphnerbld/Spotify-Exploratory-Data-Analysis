@@ -121,13 +121,13 @@ These low correlation values imply that danceability, energy, valence, and acous
 
 >**6. Platform Popularity**
 
-This part compares the numbers of tracks in spotify_playlists, spotify_charts, and apple_playlists and which platform seems to favor the most popular tracks.
+This part compares the numbers of tracks in spotify_playlists, deezer_playlists, and apple_playlists and which platform seems to favor the most popular tracks.
 
-![image](https://github.com/user-attachments/assets/62e63d13-749e-4109-aa09-77b6ddad03c5)
+![image](https://github.com/user-attachments/assets/4abc2a41-ebe6-4120-b992-6434964c7c80)
 
 ___Figure 6.1___ _shows number of tracks in different platforms_
 
-![image](https://github.com/user-attachments/assets/fe62b4a4-dc6b-4afa-b88e-a3d0d01c037b)
+![image](https://github.com/user-attachments/assets/2f226c82-c6b6-40cd-97be-ba925ebca9ec)
 
 ___Figure 6.2___ _shows number of tracks in different platforms_
 
